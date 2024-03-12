@@ -17,12 +17,12 @@ Ensure you have Java and Maven installed on your system.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/easyrules-example.git
+   https://github.com/DohaMaghni/EasyRulesTest.git
    ```
 2. **Navigate to the project directory:**
    
    ```bash
-   cd easyrules-example
+   cd EasyRulesTest
    ```
 3. **Build the application:**
    
