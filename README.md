@@ -22,7 +22,7 @@ Ensure you have Java and Maven installed on your system.
 2. **Navigate to the project directory:**
    
    ```bash
-   cd EasyRulesTest
+   cd testEasyRules
    ```
 3. **Build the application:**
    
